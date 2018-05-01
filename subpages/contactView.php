@@ -12,16 +12,9 @@
 	
 </head>
 <body>
-<div class="navi">
-	 <a href ="../mainPage.php"> HOME </a> <a href="aboutView.php"> ABOUT </a>  <a href="menuView.php"> MENU </a>   <a href="menuView.php"> RESERVATIONS </a> 
-	 <a href="galleryView.php"> GALLERY </a> <a href="newsView.php"> NEWS </a>  <a href="contactView.php"> CONTACT </a>   
-	  
-	  <a href="../mainPage.php"> 
-	  <img src="../pictures/fb-logo.png" alt="Facebook" height="20" width="20">   <img src="../pictures/insta-logo.png" alt="instagram" height="20" width="20"> 
-	  </a>
-	  
-	</div>	
-	
+<?php include '../pageparts/navigation.php' ?>
+
+
 
 	
 <div class="contactinfo">	
